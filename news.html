@@ -3,3 +3,22 @@ layout: default
 ---
 
 <h1>News</h1>
+
+<ul>
+  {% for news in site.categories.news limit:5 %}
+  <li>
+    <a href="{{site.baseurl}}{{news.url}}">{{news.title}}</a>
+    <p>{{news.meta}}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Archive</h2>
+<ul>
+  {% for archive in site.categories.archive limit:1 %}
+  <li>
+    <a href="{{site.baseurl}}{{archive.url}}">{{archive.title}}</a>
+    <p>{{archive.meta}}</p>
+  </li>
+  {% endfor %}
+</ul>
