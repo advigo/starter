@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: default
 title: Hello World old0
 meta: Hello World has been archived
 source: http://#

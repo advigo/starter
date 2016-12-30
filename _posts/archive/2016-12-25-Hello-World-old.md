@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: default
 title: Hello World old
 meta: Hello World old post
 source: http://#
