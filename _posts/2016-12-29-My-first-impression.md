@@ -15,7 +15,8 @@ It's a little bit more complicated to install Rubygem and Jekyll localy on a Win
 But dont give up, you will gett rewarded..
 
 ---
-## This is my goals in learning Jekyll, planned and done. ##
+
+### This is my goals in learning Jekyll, planned and done. ###
 
 - [x] Learning to start a GitHub repository and make a webpage
 - [x] Install a windows GitHub desktop and work localy
