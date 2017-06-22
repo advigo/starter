@@ -2,8 +2,9 @@
 layout: default
 title: My first impression
 meta: Jekyll
-source: http://#
+source: 'http://#'
 category: news
+published: true
 ---
 
 # Welcome to my first Jekyll site! #
@@ -18,12 +19,13 @@ But dont give up, you will gett rewarded..
 
 ### This is my goals in learning Jekyll, planned and done. ###
 
+
 - [x] Learning to start a GitHub repository and make a webpage
 - [x] Install a windows GitHub desktop and work localy
 - [x] Install Ruby and rubygem with Jekyll on Windows 10
 - [x] Deploy a Jekyll generated website on GitHub webpage
 - [ ] CSS styling and deploying a template with Bootstrap
-- [ ] Connecting a domain name to my web page
+- [x] Connecting a domain name to my web page
 - [x] Making a blog page
 
 **Test table**
